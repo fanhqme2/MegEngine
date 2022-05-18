@@ -14,11 +14,11 @@
 #include "megbrain_build_config.h"
 
 #define MGE_MAJOR 1
-#define MGE_MINOR 9999
+#define MGE_MINOR 10
 #define MGE_PATCH 0
 
 // for rc version, could be like "rc1", "rc2", etc
-#define MGE_EXTRA_NAME ""
+#define MGE_EXTRA_NAME "rc1"
 
 //! whether it is development version
 #ifndef MGB_IS_DEV
